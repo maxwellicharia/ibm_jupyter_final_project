@@ -1,2 +1,2 @@
-# ibm_jupyter_final_project
+# IBM Jupyter Final Project
 Solutions to the final project
